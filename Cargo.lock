@@ -34,13 +34,25 @@ dependencies = [
 ]
 
 [[package]]
+name = "hash-map"
+version = "0.1.0"
+
+[[package]]
 name = "libc"
 version = "0.2.126"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "349d5a591cd28b49e1d1037471617a32ddcda5731b99419008085f72d5a53836"
 
 [[package]]
+name = "merge-same-code"
+version = "0.1.0"
+
+[[package]]
 name = "module-study"
+version = "0.1.0"
+
+[[package]]
+name = "panic-study"
 version = "0.1.0"
 
 [[package]]
@@ -81,6 +93,10 @@ dependencies = [
 
 [[package]]
 name = "struct-study"
+version = "0.1.0"
+
+[[package]]
+name = "test-study"
 version = "0.1.0"
 
 [[package]]
