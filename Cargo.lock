@@ -56,6 +56,10 @@ name = "module-study"
 version = "0.1.0"
 
 [[package]]
+name = "one"
+version = "0.1.0"
+
+[[package]]
 name = "panic-study"
 version = "0.1.0"
 
